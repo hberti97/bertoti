@@ -13,6 +13,9 @@ De acordo com Titus Winters, os Engenheiros de Software são responsaveis por pr
 
 ### Caso de uso:
 
-<div align = "center"> 
-<img scr="https://user-images.githubusercontent.com/102214439/186031372-c4c42998-f047-4aa2-8040-99796bc94abc.png" width = 600px />
-</div>
+![image](https://user-images.githubusercontent.com/102214439/186032125-2da13cf4-5e07-4f6b-801f-f7f67c71d355.png)
+
+### Requisitos não-funcionais:
+- Separação de Interesses: definir uma arquitetura de aplicação com modelo MVC (separando assim lógica de negócios, comportamentos e interação com usuário).
+- Portabilidade: executar o sistema em diferentes plataformas
+- Usabilidade: criar uma interface de simples acesso e uso às funções do sistema.
