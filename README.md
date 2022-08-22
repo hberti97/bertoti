@@ -13,6 +13,6 @@ De acordo com Titus Winters, os Engenheiros de Software são responsaveis por pr
 
 ### Caso de uso:
 
-<div> align = "center"> 
-<img scr="https://user-images.githubusercontent.com/102214439/186031372-c4c42998-f047-4aa2-8040-99796bc94abc.png" widgth = 600px />
+<div align = "center"> 
+<img scr="https://user-images.githubusercontent.com/102214439/186031372-c4c42998-f047-4aa2-8040-99796bc94abc.png" width = 600px />
 </div>
