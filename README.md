@@ -19,3 +19,7 @@ De acordo com Titus Winters, os Engenheiros de Software são responsaveis por pr
 - Separação de Interesses: definir uma arquitetura de aplicação com modelo MVC (separando assim lógica de negócios, comportamentos e interação com usuário).
 - Portabilidade: executar o sistema em diferentes plataformas
 - Usabilidade: criar uma interface de simples acesso e uso às funções do sistema.
+
+### Diagrama de classes UML
+
+![Diagrama sem nome (2) (1) (1) (2)](https://user-images.githubusercontent.com/102214439/189767455-b366665b-112d-46a0-b764-cfb080d809bf.jpg)
