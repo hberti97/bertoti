@@ -22,7 +22,8 @@ De acordo com Titus Winters, os Engenheiros de Software são responsaveis por pr
 
 ### Diagrama de classes UML
 
-![Diagrama sem nome (2) (1) (1) (2)](https://user-images.githubusercontent.com/102214439/189767455-b366665b-112d-46a0-b764-cfb080d809bf.jpg)
+![adhusa](https://user-images.githubusercontent.com/102214439/190829530-eb2a095e-8b0a-4f37-bf7e-28c2d57924df.jpg)
+
 
 
 
