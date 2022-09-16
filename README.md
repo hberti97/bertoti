@@ -28,7 +28,7 @@ De acordo com Titus Winters, os Engenheiros de Software são responsaveis por pr
 
 
 
-![My First Board](https://user-images.githubusercontent.com/102214439/190287753-38092086-ef81-4d69-b123-cfaf26fa8ca9.jpg)
+
 
 
 
