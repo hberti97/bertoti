@@ -1,12 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+package ferramentas;
 
-/**
- *
- * @author Henrique
- */
 public class Especificacao {
 	private String marca;
 	private String tipo;
@@ -28,7 +21,7 @@ public class Especificacao {
 		return tipo;
 	}
     public void setTipo(String novaTipo) {
-    	this.Tipo = novaTipo;
+    	this.tipo = novaTipo;
     }
     public String getMaterial() {
 		return material;
@@ -37,11 +30,13 @@ public class Especificacao {
     	this.material = novaMaterial;
     }
     public boolean comparar(Especificacao especificacao) {
-    	if(this.marca.equals(especificacao.marca)&& this.tipo.equals(especificacao.modelo)&& this.material.equals(especificacao.material)) {
+    	if(this.marca.equals(especificacao.marca)&& this.tipo.equals(especificacao.tipo)&& this.material.equals(especificacao.material)) {
     		return true;
     	}else{
     		return false;
     	}
     }
+
+
 }
 

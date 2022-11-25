@@ -1,3 +1,5 @@
+package ferramentas;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
@@ -29,4 +31,14 @@ public class Ferramenta {
     public void SetEspec(Especificacao espec){
         this.espec = espec;
     }
+
+	public void add(Ferramenta ferramenta) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+
+	
 }
