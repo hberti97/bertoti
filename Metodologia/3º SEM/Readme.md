@@ -11,7 +11,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>Trabalhamos utilizando-se da metodoliga SCRUM para administrarmos os projetos e os grupos de trabalho.</p>
 
 
-<p align="center"> <img src="https://github.com/hberti97" width="2%">  <a href=">LinkedIn</a> • <img src="https://github.com/tobiassousa/Bertoti/assets/100934496/7072e28e-19c1-43ec-b572-dff5569316d3" width="2%"> <a href="https://github.com/tobiassousa">GitHub</a> </p>
+<p align="center"> <img src="https://github.com/hberti97" width="2%">  <a href=">LinkedIn</a> • <img src="" width="2%"> <a href="https://github.com/hberti97">GitHub</a> </p>
 <hr>
 
 <h2>Projetos</h2>
