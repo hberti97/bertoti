@@ -6,7 +6,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <h2>Sobre mim</h2>
 <p align="justify">Olá, seja bem-vindo. Sou o Luiz Henrique Berti, estudante de Banco de dados pela FATEC Prof. Jessen Vidal.</p>
 
-<p>Ingressei no curso no início do ano de 2022 e já possuo alguns projetos criados, chamados de API, foram feitos projetos em python, java e javascript, todos em comperação com impresas para termos o contato com o mercado de trabalho.</p>
+<p>Ingressei no curso no início do ano de 2022 e já possuo alguns projetos criados, chamados de API, foram feitos projetos em python, java e javascript, todos em comperação com empresas para termos o contato com o mercado de trabalho.</p>
 
 <p>Trabalhamos utilizando-se da metodoliga SCRUM para administrarmos os projetos e os grupos de trabalho.</p>
 
