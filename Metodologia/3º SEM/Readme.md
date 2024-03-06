@@ -26,6 +26,15 @@ Parceiro Acadêmico: Dom Rock
 A Dom Rock é uma empresa que oferece soluções utilizando tecnologia de dados para ampliar resultados em marketing, vendas, distribuição, logística, operações, engenharia e finanças.
 Utilizando modelos matemáticos e algoritmos baseados em aprendizado de máquina que endereçam duas soluções sendo Nxt.Demand com quatro produtos – Vox, Sales&Distribution, Marketing&Planning, Pricing – e Nxt.Operations com dois produtos – Matching&Risk e Optimization.
 
+##  Proposta da Solução
+
+A empresa Dom Rock enfrentava a tarefa de padronizar os arquivos de predição de vendas de seus clientes, fornecidos no formato CSV. Reconhecendo a necessidade de otimizar esse processo, a empresa buscava desenvolver uma aplicação web que facilitasse a inserção e padronização desses dados, resultando em uma redução significativa do tempo dedicado a essa tarefa.
+
+Neste semestre, o nosso grupo está propondo uma solução abrangente para a empresa. O desafio central envolve lidar de maneira eficaz com o histórico de movimentação de produtos, englobando tanto as informações de vendas quanto de estoque. Além disso, a solução visa integrar a predição de faturamento, realizada por um algoritmo de inteligência artificial já existente. Complementarmente, a aplicação será capaz de incorporar os dados provenientes da equipe de vendas, relacionados ao planejamento futuro da empresa.
+
+Diante dessa complexidade, nossa proposta visa criar uma plataforma que harmonize e simplifique esses processos, proporcionando à Dom Rock uma gestão mais eficiente e informada de suas operações comerciais.
+
+
 
 
 
